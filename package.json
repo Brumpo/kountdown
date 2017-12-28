@@ -1,0 +1,27 @@
+{
+  "name": "kountdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brumpo/kountdown.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brumpo/kountdown/issues"
+  },
+  "homepage": "https://github.com/Brumpo/kountdown#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "knex": "^0.14.2",
+    "nodemon": "^1.14.3",
+    "pg": "^7.4.0"
+  }
+}
